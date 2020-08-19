@@ -27,7 +27,7 @@ USAGE
 package main
 
 import (
-	"github.com/oov/socks5"
+	"github.com/PayaMousavi/socks5"
 	"log"
 )
 
