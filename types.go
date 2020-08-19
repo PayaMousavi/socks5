@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	verSocks5 = 0x05
+	verSocks5 = 0x06
 
 	authNoAuthenticationRequired      = 0x00
 	authUsernamePassword              = 0x02
