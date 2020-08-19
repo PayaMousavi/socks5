@@ -14,11 +14,11 @@ INSTALL
 -------
 
 ```sh
-go get -u github.com/oov/socks5
+go get -u github.com/PayaMousavi/socks5
 ```
 Additional Feature
 ======
-verSocks5 value changed 0x06 instead of 0x05 for bypass Iran's firewall(client-side modification needed)
+verSocks5 value changed to 0x06 instead of 0x05 for bypass Iran's firewall(client-side modification needed)
 
 USAGE
 -----
